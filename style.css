@@ -1,9 +1,23 @@
-backgroungd-color: #f0f0f0;
-font-family: Arial, sans-serif;
-color: #333333;
-margin: 20px;
-padding: 20px;
-a<
-    text-decoration: none;
-    color: #1a73e8;
-    }
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.Ama{
+    background-color: #ffe6f0;  /*Pastelrosa*/
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 100px;   
+    font-family: cursive; 
+
+    
+
+    margin: auto;
+     
+
+} 
+.font{
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 20px;
+}
